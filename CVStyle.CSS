@@ -26,6 +26,7 @@ body{
   background-color: white;
   margin-right: 15px;
   border-radius: 5px;
+  position: relative;
 }
 
 .avatar{
@@ -124,9 +125,19 @@ body{
   color: gray;
   font-size: 13px;
   position: relative;
-  top: 176px;
+  top: 221px;
   left: 10px;
   text-align: left;
+}
+
+.prog-text2{
+  color: gray;
+  font-size: 13px;
+  position: relative;
+  top: 123px;
+  left: 10px;
+  text-align: left;
+    display:
 }
 
 .prog{
@@ -139,36 +150,38 @@ body{
 .prog2{
   float: left;
   margin-left:0px; 
-  margin-top:75px; 
+  margin-top:70px; 
   width: 0px;
-  
 }
+
+.prog2-1{
+  float: left;
+  margin-left:0px; 
+  margin-top:120px; 
+  width: 0px;
+}
+
+
 
 .prog3{
   float: left;
   margin-left:0px; 
-  margin-top:125px; 
+  margin-top:160px; 
   width: 0px;
 }
 
-.prog3{
-  float: left;
-  margin-left:0px; 
-  margin-top:125px; 
-  width: 0px;
-}
 
 .prog4{
   float: left;
   margin-left:0px; 
-  margin-top:180px; 
+  margin-top:220px; 
   width: 0px;
 }
 
 .prog5{
   float: left;
   margin-left:0px; 
-  margin-top:225px; 
+  margin-top:260px; 
   width: 0px;
 }
 
